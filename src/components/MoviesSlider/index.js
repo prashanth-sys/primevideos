@@ -5,7 +5,7 @@ const MoviesSlider = props => {
   const {thumbnailUrl} = movieDetails
   return (
     <div>
-      <img src={thumbnailUrl} alt="krishna" />
+      <img src={thumbnailUrl} alt="krishna" className="" />
     </div>
   )
 }
