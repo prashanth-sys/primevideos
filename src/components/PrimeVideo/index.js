@@ -34,7 +34,7 @@ class PrimeVideo extends Component {
         <div>
           <img
             src="https://assets.ccbp.in/frontend/react-js/prime-video-img.png"
-            alt="krishna"
+            alt="prime video"
             className="prime-video"
           />
         </div>
